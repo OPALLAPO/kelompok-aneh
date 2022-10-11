@@ -1,0 +1,65 @@
+#wrapper{
+    width: 960px;
+    background-color: gray;
+}
+#header {
+    background-color: red;
+}
+#header h1{
+    color: yellow;
+    text-align: center;
+}
+
+#header img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+}
+
+#content{
+    background-color: green;
+    width: 600px;
+}
+
+#content h2{
+    color: white;
+}
+
+#content img{
+    width: 150px;
+    height: 150px;
+}
+
+#content p{
+    color: red;
+}
+
+#list-sidebar{
+    background-color: yellow;
+    width: 360px;
+}
+.sidebar{
+    background-color: black;
+}
+
+.sidebar h3{
+    color: blue;
+}
+
+.sidebar img{
+      width: 50px;
+      height: 50px;
+      border: groove red;
+}
+
+#footer{
+    width: 100%;
+    background-color: red;
+}
+
+#footer{
+    color: white;
+    text-align: center;
+}
+
+
